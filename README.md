@@ -1,4 +1,4 @@
-# Segmentation Guided Scoring of Pathological Lesions in Swines Through Convolutional Neural Networks (ID: 34)
+# Segmentation Guided Scoring of Pathological Lesions in Swines Through Convolutional Neural Networks
 
 ## Code
 Our UNet-based model can be found in ```code/model.py```. 

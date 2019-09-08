@@ -64,7 +64,7 @@ Examples from the 4 classes are reported:
 Experts put a lot of their valuable time in the annotation process without direct retribution. As such, we must keep track of the dataset's uses by the community.
 
 ##### Research Purposes
-Please fill and submit the research purpose statement form. Requests must be submitted by researchers only.
+Please drop us an email.
 
 ##### Economic Purposes
-If you're a private company and you want to get in touch with us, please refers to the article authors' emails. 
+Please drop us an email.
